@@ -190,7 +190,7 @@ If you find this work useful, please cite:
 ```
 @inproceedings{yuan2025graver,
   author    = {Yuan, Haonan and Sun, Qingyun and Shi, Junhua and Fu, Xingcheng and Hooi, Bryan and Li, Jianxin and Yu, Philip S},
-  title     = {GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning},
+  title     = {{GRAVER}: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning},
   booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
   year      = {2025}
 }
